@@ -1,0 +1,36 @@
+C:\python_training\.virtualenvs\elevateLabsProject\Scripts\python.exe C:/Python-3.8.11/elevateLabsProject/calculator.py
+Please choose an operation to perform - 
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+
+Select operations (1-4) or 5 to exit: 3
+Enter first number: 45
+Enter second number: 200
+45 * 200 = 9000
+
+Please choose an operation to perform - 
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+
+Select operations (1-4) or 5 to exit: 4
+Enter first number: -200
+Enter second number: -600
+-200 / -600 = 0.3333333333333333
+
+Please choose an operation to perform - 
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+
+Select operations (1-4) or 5 to exit: 5
+Exiting the operation
+
+Process finished with exit code 0
