@@ -1,0 +1,2 @@
+# calculator
+calculator CLI app
